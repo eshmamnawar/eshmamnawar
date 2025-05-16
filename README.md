@@ -47,10 +47,13 @@ Hi, I'm **Eshmam Nawar**, a Software Development student at **Swinburne Universi
 ## 🚀 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eshmamnawar&theme=tokyonight" width="100%" style="border-radius: 10px;" alt="Profile Summary Card"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eshmamnawar&theme=tokyonight" width="49%" style="border-radius: 10px; margin: 4px;" alt="Repos by Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eshmamnawar&theme=tokyonight" width="49%" style="border-radius: 10px; margin: 4px;" alt="Most Used Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eshmamnawar&theme=tokyonight&utcOffset=8" width="100%" style="border-radius: 10px;" alt="Productivity Time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eshmamnawar&theme=tokyonight" width="100%" style="border-radius: 10px; margin-bottom: 12px;" alt="Profile Summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eshmamnawar&theme=tokyonight" width="32%" style="border-radius: 10px; margin: 6px;" alt="Repos by Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eshmamnawar&theme=tokyonight" width="32%" style="border-radius: 10px; margin: 6px;" alt="Most Used Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eshmamnawar&theme=tokyonight&utcOffset=8" width="32%" style="border-radius: 10px; margin: 6px;" alt="Productivity Time" />
 </p>
 
 <!-- 🎨 Signature GIF Row -->
