@@ -1,9 +1,5 @@
 <h1 align="center">I'm Eshmam Nawar</h1>
-<h3 align="center">I'm a Software Development student at Swinburne University, passionate about building beautiful, functional websites and exploring the exciting world of AI Engineering. I'm currently sharpening my web development skills while diving deeper into emerging technologies. I’m especially interested in how artificial intelligence can shape the future — a passion that led me to become a former Fellow and Resident at SWE Headstarter AI, where I gained hands-on experience in real-world AI projects. I enjoy solving problems through thoughtful design and seamless digital experiences, and I’m always eager to collaborate, learn, and contribute to meaningful tech solutions. Excited to keep growing and discovering where this tech journey takes me next!</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eshmamnawar&label=Profile%20views&color=0e75b6&style=flat" alt="eshmamnawar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eshmamnawar" alt="eshmamnawar" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
