@@ -1,49 +1,40 @@
-<!-- 🎬 CYBERPUNK TECH BANNER -->
+keep everything same just add gap in between sections. and make the jupiter and html different colors.
+
 <div align="center">
-  <img src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" style="border-radius: 10px; max-width: 70%; height: auto; background-color: transparent; mix-blend-mode: lighten; border: 3px solid #0CFFF7; box-shadow: 0 0 15px #0ff, 0 0 25px #f0f;" alt="Coding GIF Banner" />
+  <img src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" style="border-radius: 10px; max-width: 70%; height: auto; background-color: transparent; mix-blend-mode: screen; box-shadow: 0 0 15px #0ff, 0 0 25px #f0f;" alt="Coding GIF Banner" />
 </div>
 <!-- ✨ Section Headings with Improved Styling -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=0CFFF7&center=true&vCenter=true&width=600&lines=I'm+Eshmam+Nawar;Software+Developer+%F0%9F%92%BB;AI+Engineering+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
 </h1>
-<!-- 👁️ Profile Views Counter - Neon Style -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=eshmamnawar&label=Profile%20views&color=00FFFF&style=for-the-badge" alt="eshmamnawar" />
-</div>
+
+<!-- 👁️ Profile Views Counter -->
+
+## 🌟 About Me
+
+Hi, I'm **Eshmam Nawar**, a Software Development student at **Swinburne University** passionate about building efficient, elegant digital solutions and exploring the frontiers of AI.
+
+* 🧠 Former **Fellow & Resident at SWE Headstarter AI** working on AI-driven innovations
+* 💻 Experienced in **JavaScript, React, Node.js, Python, and Next.js**
+* 🤖 Focused on practical AI, automation, and clean development architecture
+* 🌐 Advocate for open-source collaboration and continuous learning
+
 <!-- 👤 About Me -->
-🌟 About Me
-Hi, I'm Eshmam Nawar, a Software Development student at Swinburne University passionate about building efficient, elegant digital solutions and exploring the frontiers of AI.
 
-🧠 Former Fellow & Resident at SWE Headstarter AI working on AI-driven innovations
-💻 Experienced in JavaScript, React, Node.js, Python, and Next.js
-🤖 Focused on practical AI, automation, and clean development architecture
-🌐 Advocate for open-source collaboration and continuous learning
+Hi, I'm **Eshmam Nawar**, a Software Development student at **Swinburne University** passionate about building efficient, elegant digital solutions and exploring the frontiers of AI.
 
+* 🧠 Former **Fellow & Resident at SWE Headstarter AI** working on AI-driven innovations
+* 💻 Experienced in **JavaScript, React, Node.js, Python, and Next.js**
+* 🤖 Focused on practical AI, automation, and clean development architecture
+* 🌐 Advocate for open-source collaboration and continuous learning
 
 <!-- 🧰 Tech Toolbox & 🔗 Social Links - Cyberpunk Styling -->
+
 <h2 align="center">
   <span style="color: #FF2D95; font-family: 'Orbitron', sans-serif; font-size: 24px; text-shadow: 0 0 10px #FF2D95;">🧰 TECH TOOLBOX</span>
 </h2>
-<div align="center" style="background: transparent; border-radius: 10px; padding: 20px; border: 2px solid #FF2D95; box-shadow: 0 0 20px #0CFFF7;">
-  <!-- Custom styled tech icons -->
-  <div style="display: inline-block; margin: 10px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=html" style="filter: drop-shadow(0 0 5px #E34F26);" alt="HTML" />
-    <p style="color: #E34F26; text-shadow: 0 0 5px #E34F26; margin-top: 5px;">HTML</p>
-  </div>
-  <div style="display: inline-block; margin: 10px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=js" style="filter: drop-shadow(0 0 5px #F7DF1E);" alt="JavaScript" />
-    <p style="color: #F7DF1E; text-shadow: 0 0 5px #F7DF1E; margin-top: 5px;">JavaScript</p>
-  </div>
-  <div style="display: inline-block; margin: 10px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=python" style="filter: drop-shadow(0 0 5px #3776AB);" alt="Python" />
-    <p style="color: #3776AB; text-shadow: 0 0 5px #3776AB; margin-top: 5px;">Python</p>
-  </div>
-  <div style="display: inline-block; margin: 10px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=react" style="filter: drop-shadow(0 0 5px #61DAFB);" alt="React" />
-    <p style="color: #61DAFB; text-shadow: 0 0 5px #61DAFB; margin-top: 5px;">React</p>
-  </div>
-  <!-- Remaining tech icons -->
-  <img src="https://skillicons.dev/icons?i=css,ts,nextjs,nodejs,tailwind,bootstrap,figma,cpp,php,django,mongodb,mysql,firebase,git,aws" style="max-width: 85%; filter: drop-shadow(0 0 5px #0CFFF7); margin-top: 15px;" />
+<div align="center" style="background: rgba(20,19,33,0.8); border-radius: 10px; padding: 20px; box-shadow: 0 0 20px #0CFFF7;">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,bootstrap,figma,cpp,python,php,django,mongodb,mysql,firebase,git,aws" style="max-width: 85%; filter: drop-shadow(0 0 5px #0CFFF7);" />
 </div>
 
 <h2 align="center">
@@ -51,11 +42,12 @@ Hi, I'm Eshmam Nawar, a Software Development student at Swinburne University pas
 </h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/eshmam-nawar/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="filter: drop-shadow(0 0 5px #0CFFF7); border: 2px solid #0CFFF7; border-radius: 5px; padding: 3px;" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="filter: drop-shadow(0 0 5px #0CFFF7);" />
   </a>
 </p>
 
 <!-- 📈 GitHub Insights - Cyberpunk Stats with Improved Colors -->
+
 <h2 align="center">
   <span style="color: #00ff00; font-family: 'Orbitron', sans-serif; font-size: 24px; text-shadow: 0 0 10px #00ff00;">🚀 GITHUB ACTIVITY</span>
 </h2>
@@ -67,6 +59,7 @@ Hi, I'm Eshmam Nawar, a Software Development student at Swinburne University pas
 </p>
 
 <!-- 🧠 Footer Quote - Enhanced Cyberpunk Style -->
+
 <p align="center">
   <em style="color: #0CFFF7; text-shadow: 0 0 8px #0CFFF7; font-family: 'Orbitron', sans-serif; font-size: 16px;">"Code is like humor. When you have to explain it, it's bad." – Cory House</em>
 </p>
