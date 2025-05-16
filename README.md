@@ -46,9 +46,11 @@ Hi, I'm **Eshmam Nawar**, a Software Development student at **Swinburne Universi
 <!-- 📈 GitHub Insights -->
 ## 🚀 GitHub Activity
 
-<div align="center" style="background: #0d1117; border: 2px solid #00FFFF; border-radius: 14px; padding: 30px; box-shadow: 0 0 15px rgba(0, 255, 255, 0.4); display: flex; flex-direction: column; align-items: center; gap: 30px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=eshmamnawar&theme=tokyonight&hide_border=true" width="380px" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshmamnawar&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="380px" alt="Top Languages" />
+<div align="center" style="background: linear-gradient(145deg, #0d1117, #1f2a38); border: 2px solid #00FFFF; border-radius: 16px; padding: 35px 25px; box-shadow: 0 0 20px rgba(0, 255, 255, 0.4); display: flex; flex-direction: column; align-items: center; gap: 25px;">
+  <h3 style="color: #00FFFF; font-family: 'Fira Code', monospace; font-weight: bold;">🔥 Streak Overview</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=eshmamnawar&theme=tokyonight&hide_border=true" width="400px" alt="GitHub Streak" />
+  <h3 style="color: #00FFFF; font-family: 'Fira Code', monospace; font-weight: bold;">📊 Top Languages</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshmamnawar&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="400px" alt="Top Languages" />
 </div>
 
 ---
