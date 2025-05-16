@@ -47,13 +47,16 @@ Hi, I'm **Eshmam Nawar**, a Software Development student at **Swinburne Universi
 ## 🚀 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eshmamnawar&theme=tokyonight" width="100%" style="border-radius: 10px; margin-bottom: 12px;" alt="Profile Summary" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eshmamnawar&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&custom_title=🔥+My+GitHub+Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshmamnawar&layout=compact&theme=gruvbox&hide_border=true&langs_count=8" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eshmamnawar&theme=tokyonight" width="32%" style="border-radius: 10px; margin: 6px;" alt="Repos by Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eshmamnawar&theme=tokyonight" width="32%" style="border-radius: 10px; margin: 6px;" alt="Most Used Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eshmamnawar&theme=tokyonight&utcOffset=8" width="32%" style="border-radius: 10px; margin: 6px;" alt="Productivity Time" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=eshmamnawar&theme=github-dark-blue&hide_border=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=eshmamnawar&theme=github-compact&hide_border=true&bg_color=0d1117&color=F75C7E&line=00FFFF&point=FFD700" width="100%" />
 </p>
 
 <!-- 🎨 Signature GIF Row -->
