@@ -6,18 +6,19 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=0CFFF7&center=true&vCenter=true&width=600&lines=I'm+Eshmam+Nawar;Software+Developer+%F0%9F%92%BB;AI+Engineering+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
 </h1>
-<!-- 👁️ Profile Views Counter - Neon Style -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=eshmamnawar&label=Profile%20views&color=00FFFF&style=for-the-badge" alt="eshmamnawar" />
-</div>
-<!-- 👤 About Me -->
-🌟 About Me
-Hi, I'm Eshmam Nawar, a Software Development student at Swinburne University passionate about building efficient, elegant digital solutions and exploring the frontiers of AI.
 
-🧠 Former Fellow & Resident at SWE Headstarter AI working on AI-driven innovations
-💻 Experienced in JavaScript, React, Node.js, Python, and Next.js
-🤖 Focused on practical AI, automation, and clean development architecture
-🌐 Advocate for open-source collaboration and continuous learning
+<!-- 👁️ Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=eshmamnawar&label=Profile%20views&color=00BFFF&style=flat" alt="eshmamnawar" />
+</p>
+
+<!-- 👤 About Me -->
+Hi, I'm **Eshmam Nawar**, a Software Development student at **Swinburne University** passionate about building efficient, elegant digital solutions and exploring the frontiers of AI.
+
+- 🧠 Former **Fellow & Resident at SWE Headstarter AI** working on AI-driven innovations
+- 💻 Experienced in **JavaScript, React, Node.js, Python, and Next.js**
+- 🤖 Focused on practical AI, automation, and clean development architecture
+- 🌐 Advocate for open-source collaboration and continuous learning
 
 
 <!-- 🧰 Tech Toolbox & 🔗 Social Links - Cyberpunk Styling -->
