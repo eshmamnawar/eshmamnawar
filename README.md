@@ -1,55 +1,71 @@
-<!-- Live Aesthetic Banner with Typing Effect and GIF -->
+<!-- 🎬 LIVE ACTION TECH BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Software+Developer+%F0%9F%92%BB;AI+Engineering+Enthusiast+%F0%9F%A4%96;Passionate+about+Building+Smart+Solutions" alt="Typing SVG" />
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="AI Coding Banner GIF" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="AI Coding Banner GIF" />
 </p>
 
-<!-- Profile Views -->
-<p align="left">
+<!-- ✨ Animated Typing Introduction -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Software+Developer+%F0%9F%92%BB;AI+Engineering+Enthusiast+%F0%9F%A4%96;Passionate+about+Smart+Tech+%26+Creative+Solutions" alt="Typing SVG" />
+</h1>
+
+<!-- 👁️ Profile Views Counter -->
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=eshmamnawar&label=Profile%20views&color=F75C7E&style=flat" alt="eshmamnawar" />
 </p>
 
-<!-- About Me -->
-## 💻 About Me
+<!-- 👤 About Me -->
+## 🌟 Who Am I?
 
-I'm a Software Development student at **Swinburne University**, driven by a passion for crafting robust, user-focused web applications and exploring the transformative potential of **Artificial Intelligence**.
+I'm a Software Development student at **Swinburne University**, passionate about building clean, scalable web applications and exploring the possibilities of **AI Engineering**.
 
-👨‍💼 Former **Fellow and Resident at SWE Headstarter AI**  
-🚀 Actively developing projects using React, Node.js, and modern web frameworks  
-🧠 Exploring AI systems, intelligent apps, and automation workflows  
-🤝 Eager to collaborate on innovative software and AI solutions
+👨‍💼 Former **Fellow & Resident at SWE Headstarter AI**  
+🔧 Building full-stack solutions with JavaScript, React, Node.js, Python, and Next.js  
+🧠 Exploring ML models, intelligent agents, and ethical AI practices  
+🌐 Actively contributing to open-source and collaborative tech communities
 
 ---
 
-<!-- Connect With Me -->
-## 🤝 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/eshmam-nawar/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+<!-- 🔗 Social Links -->
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/eshmam-nawar/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
 
 ---
 
-<!-- Tech Stack -->
-## 🧰 Languages and Tools
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=aws,bootstrap,cpp,css,django,figma,firebase,git,html,js,mongodb,mysql,nextjs,nodejs,php,python,react,tailwind,ts" />
-</div>
-
----
-
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eshmamnawar&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+<!-- 🧰 Toolbelt -->
+## 🧰 Tech Toolbox
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,bootstrap,figma,cpp,python,php,django,mongodb,mysql,firebase,git,aws" />
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eshmamnawar&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eshmamnawar&theme=radical" alt="GitHub Streak" /></p>
 
 ---
 
-<!-- Footer Quote -->
-_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+<!-- 📈 GitHub Insights -->
+## 📈 My GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eshmamnawar&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=My+Coding+Activity" alt="GitHub Stats" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshmamnawar&layout=compact&theme=radical&langs_count=10" alt="Top Languages" width="340" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eshmamnawar&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+<!-- 🎨 Signature GIF Row -->
+## ✨ Aesthetic Flow
+<p align="center">
+  <img src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" width="330" />
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="330" />
+</p>
+
+---
+
+<!-- 🧠 Footer Quote -->
+<p align="center">
+  <em>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</em>
+</p>
