@@ -1,6 +1,6 @@
 <!-- 🎬 LIVE ACTION TECH BANNER -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="AI Coding Banner GIF" />
+  <img src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" width="100%" alt="Coding GIF Banner" />
 </p>
 
 <!-- ✨ Animated Typing Introduction -->
