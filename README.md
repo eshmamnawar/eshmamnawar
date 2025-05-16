@@ -16,24 +16,12 @@
 <!-- 👤 About Me -->
 ## 🌟 About Me
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="180" height="180">
-</div>
+Hi, I'm **Eshmam Nawar**, a Software Development student at **Swinburne University** with a deep passion for building impactful digital experiences and exploring the cutting edge of AI.
 
-<p align="center">
-  <strong><span style="font-size:22px; color:#00FFFF">Hi, I'm Eshmam Nawar</span></strong><br>
-  <em>A passionate Software Developer & AI Engineering Enthusiast</em>
-</p>
-
-<br/>
-
-<p align="center">
-  <strong>🏅 Fellow & Resident at SWE Headstarter AI</strong> — contributed to impactful AI initiatives<br>
-  <strong>🛠️ Full-Stack Developer</strong> working with JavaScript, React, Node.js, Python, and Next.js<br>
-  <strong>🤖 AI Explorer</strong> focused on intelligent systems, ethical machine learning, and automation<br>
-  <strong>🌍 Tech Enthusiast</strong> passionate about open-source, innovation, and community-driven development
-</p>
-
+- 🧠 Former **Fellow & Resident at SWE Headstarter AI**, where I contributed to meaningful AI-driven projects
+- 🧰 Skilled in full-stack development with **JavaScript, React, Node.js, Python, and Next.js**
+- 🤖 Actively experimenting with intelligent systems, machine learning models, and automation
+- 🌐 Passionate about open-source collaboration, clean architecture, and tech that makes a difference
 
 ---
 
