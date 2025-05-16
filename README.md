@@ -46,14 +46,14 @@ Hi, I'm **Eshmam Nawar**, a Software Development student at **Swinburne Universi
 <!-- 📈 GitHub Insights -->
 ## 🚀 GitHub Activity
 
-<div align="center" style="background: #1a1a2e; border: 1px solid #00FFFF; border-radius: 16px; padding: 25px 20px; margin-top: 10px; box-shadow: 0 0 15px rgba(0,255,255,0.3);">
-  <h3 style="color:#00FFFF; font-size: 22px; font-weight: bold; font-family: 'Fira Code', monospace;">💥 Contributions</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=eshmamnawar&theme=radical&hide_border=true" width="360px" alt="GitHub Streak" />
-  <br><br>
-  <h3 style="color:#FF69B4; font-size: 22px; font-weight: bold; font-family: 'Fira Code', monospace;">📊 Languages</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshmamnawar&layout=compact&theme=radical&hide_border=true&langs_count=6" width="360px" alt="Top Languages" />
-  <br><br>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80px" style="margin-top: 10px; border-radius: 12px;" />
+<div align="center" style="background: #0d1117; border-radius: 14px; padding: 30px 20px; box-shadow: 0 0 20px rgba(0, 191, 255, 0.3);">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="80px" style="margin-bottom: 15px; border-radius: 50%;" />
+  <div style="display: flex; flex-direction: row; justify-content: center; flex-wrap: wrap; gap: 20px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=eshmamnawar&theme=tokyonight&hide_border=true" width="360px" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshmamnawar&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="360px" alt="Top Languages" />
+  </div>
+  <br>
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="100px" style="border-radius: 12px;" />
 </div>
 
 ---
