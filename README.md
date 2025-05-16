@@ -46,16 +46,14 @@ Hi, I'm **Eshmam Nawar**, a Software Development student at **Swinburne Universi
 <!-- 📈 GitHub Insights -->
 ## 🚀 GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eshmamnawar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&custom_title=🔥+GitHub+Stats" width="42%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshmamnawar&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="42%" alt="Top Languages"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eshmamnawar&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&custom_title=🔥+GitHub+Stats" width="46%" alt="GitHub Stats" style="margin: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshmamnawar&layout=compact&theme=radical&hide_border=true&langs_count=6" width="46%" alt="Top Languages" style="margin: 10px;"/>
+</p>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=eshmamnawar&theme=tokyonight&hide_border=true" width="85%" alt="GitHub Streak"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=eshmamnawar&theme=radical&hide_border=true" width="94%" alt="GitHub Streak" style="margin: 10px;"/>
+</p>
 
 <!-- 🎨 Signature GIF Row -->
 
