@@ -1,5 +1,3 @@
-keep everything same just add gap in between sections. and make the jupiter and html different colors.
-
 <div align="center">
   <img src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" style="border-radius: 10px; max-width: 70%; height: auto; background-color: transparent; mix-blend-mode: screen; box-shadow: 0 0 15px #0ff, 0 0 25px #f0f;" alt="Coding GIF Banner" />
 </div>
