@@ -47,13 +47,10 @@ Hi, I'm **Eshmam Nawar**, a Software Development student at **Swinburne Universi
 ## 🚀 GitHub Activity
 
 <div align="center" style="background: linear-gradient(145deg, #0d1117, #1f2a38); border: 2px solid #00FFFF; border-radius: 16px; padding: 35px 25px; box-shadow: 0 0 20px rgba(0, 255, 255, 0.4); display: flex; flex-direction: column; align-items: center; gap: 25px;">
-  <div style="width: 280px; display: flex; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=eshmamnawar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&custom_title=🔥 GitHub Stats" style="width: 100%; height: 150px; object-fit: cover;" alt="GitHub Stats" />
-  </div>
-  <div style="width: 320px; display: flex; justify-content: center;">
+  <div style="width: 300px; display: flex; justify-content: center;">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=eshmamnawar&theme=tokyonight&hide_border=true" style="width: 100%; height: 180px; object-fit: cover;" alt="GitHub Streak" />
   </div>
-  <div style="width: 320px; display: flex; justify-content: center;">
+  <div style="width: 300px; display: flex; justify-content: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshmamnawar&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" style="width: 100%; height: 180px; object-fit: cover;" alt="Top Languages" />
   </div>
 </div>
