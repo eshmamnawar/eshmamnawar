@@ -42,10 +42,10 @@ Hi, I'm Eshmam Nawar, a Software Development student at Swinburne University pas
   <span style="color: #00ff00; font-family: 'Orbitron', sans-serif; font-size: 24px; text-shadow: 0 0 10px #00ff00;">🚀 GITHUB ACTIVITY</span>
 </h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=eshmamnawar&theme=synthwave&hide_border=true&ring=0CFFF7&fire=FF2D95&currStreakLabel=0CFFF7&sideLabels=F9F871&stroke=FF2D95&background=141321" width="70%" alt="GitHub Streak" style="border-radius: 10px; box-shadow: 0 0 15px #0ff;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=eshmamnawar&theme=synthwave&hide_border=false&ring=0CFFF7&fire=FF2D95&currStreakLabel=0CFFF7&sideLabels=F9F871&stroke=FF2D95&background=141321&border=0CFFF7" width="70%" alt="GitHub Streak" style="border-radius: 10px; box-shadow: 0 0 15px #0ff;" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshmamnawar&layout=compact&theme=synthwave&hide_border=true&title_color=0CFFF7&icon_color=F9F871&text_color=FFFFFF&bg_color=141321&langs_count=8" width="70%" alt="Top Languages" style="border-radius: 10px; box-shadow: 0 0 15px #f0f;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshmamnawar&layout=compact&theme=synthwave&hide_border=false&title_color=0CFFF7&icon_color=F9F871&text_color=FFFFFF&bg_color=141321&border_color=FF2D95&langs_count=8" width="70%" alt="Top Languages" style="border-radius: 10px; box-shadow: 0 0 15px #f0f;" />
 </p>
 
 <!-- 🧠 Footer Quote - Enhanced Cyberpunk Style -->
