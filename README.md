@@ -48,8 +48,10 @@ Hi, I'm **Eshmam Nawar**, a Software Development student at **Swinburne Universi
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=eshmamnawar&theme=tokyonight&hide_border=true" width="45%" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshmamnawar&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="40%" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=eshmamnawar&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshmamnawar&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="70%" alt="Top Languages" />
 </p>
 
 ---
