@@ -46,14 +46,9 @@ Hi, I'm **Eshmam Nawar**, a Software Development student at **Swinburne Universi
 <!-- 📈 GitHub Insights -->
 ## 🚀 GitHub Activity
 
-<div align="center" style="background: #0d1117; border-radius: 14px; padding: 30px 20px; box-shadow: 0 0 20px rgba(0, 191, 255, 0.3);">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="80px" style="margin-bottom: 15px; border-radius: 50%;" />
-  <div style="display: flex; flex-direction: row; justify-content: center; flex-wrap: wrap; gap: 20px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=eshmamnawar&theme=tokyonight&hide_border=true" width="360px" alt="GitHub Streak" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshmamnawar&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="360px" alt="Top Languages" />
-  </div>
-  <br>
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="100px" style="border-radius: 12px;" />
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; background: #0d1117; border: 2px solid #00FFFF; border-radius: 14px; padding: 20px; box-shadow: 0 0 15px rgba(0, 255, 255, 0.4);">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=eshmamnawar&theme=tokyonight&hide_border=true" width="360px" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshmamnawar&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="360px" alt="Top Languages" />
 </div>
 
 ---
