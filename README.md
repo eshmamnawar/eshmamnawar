@@ -14,14 +14,14 @@
 </p>
 
 <!-- 👤 About Me -->
-## 🌟 Who Am I?
+## 🌟 About Me
 
-I'm a Software Development student at **Swinburne University**, passionate about building clean, scalable web applications and exploring the possibilities of **AI Engineering**.
+Hey there! I'm **Eshmam Nawar**, a Software Development student at **Swinburne University** with a growing passion for innovation in both **web development** and **AI Engineering**.
 
-👨‍💼 Former **Fellow & Resident at SWE Headstarter AI**  
-🔧 Building full-stack solutions with JavaScript, React, Node.js, Python, and Next.js  
-🧠 Exploring ML models, intelligent agents, and ethical AI practices  
-🌐 Actively contributing to open-source and collaborative tech communities
+🔹 Former **Fellow & Resident at SWE Headstarter AI**, where I explored real-world applications of artificial intelligence  
+🔹 Crafting full-stack applications with **JavaScript**, **React**, **Node.js**, **Python**, and **Next.js**  
+🔹 Enthusiastic about building ethical, intelligent systems using machine learning models and automation tools  
+🔹 Dedicated to open-source, collaborative learning, and continuous growth in the tech space
 
 ---
 
