@@ -20,9 +20,9 @@ Hi, I'm Eshmam Nawar, a Software Development student at Swinburne University pas
 🌐 Advocate for open-source collaboration and continuous learning
 
 
-<!-- 🧰 Languages and Tools & 🔗 Social Links - Cyberpunk Styling -->
+<!-- 🧰 Tech Toolbox & 🔗 Social Links - Cyberpunk Styling -->
 <h2 align="center">
-  <span style="color: #FF2D95; font-family: 'Orbitron', sans-serif; font-size: 24px; text-shadow: 0 0 10px #FF2D95;">💻 Languages and Tools</span>
+  <span style="color: #FF2D95; font-family: 'Orbitron', sans-serif; font-size: 24px; text-shadow: 0 0 10px #FF2D95;">🧰 TECH TOOLBOX</span>
 </h2>
 <div align="center" style="background: transparent; border-radius: 10px; padding: 20px; border: 2px solid #FF2D95; box-shadow: 0 0 20px #0CFFF7;">
   <!-- Custom styled tech icons -->
@@ -45,7 +45,7 @@ Hi, I'm Eshmam Nawar, a Software Development student at Swinburne University pas
   <!-- Remaining tech icons -->
   <img src="https://skillicons.dev/icons?i=css,ts,nextjs,nodejs,tailwind,bootstrap,figma,cpp,php,django,mongodb,mysql,firebase,git,aws" style="max-width: 85%; filter: drop-shadow(0 0 5px #0CFFF7); margin-top: 15px;" />
 </div>
-<br>
+
 <h2 align="center">
   <span style="color: #F9F871; font-family: 'Orbitron', sans-serif; font-size: 24px; text-shadow: 0 0 10px #F9F871;">🌐 CONNECT WITH ME</span>
 </h2>
