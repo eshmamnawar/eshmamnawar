@@ -46,22 +46,22 @@ Hi, I'm **Eshmam Nawar**, a Software Development student at **Swinburne Universi
 <!-- 📈 GitHub Insights -->
 ## 🚀 GitHub Activity
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eshmamnawar&theme=tokyonight" alt="GitHub Summary Card" style="max-width: 100%; border-radius: 12px;"/>
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eshmamnawar&theme=tokyonight" width="100%" style="border-radius: 12px;" />
+</p>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eshmamnawar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=My+Coding+Journey" alt="GitHub Stats" width="450" style="border-radius: 10px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshmamnawar&layout=compact&theme=tokyonight&langs_count=10&hide=html" alt="Top Languages" width="340" style="border-radius: 10px;"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eshmamnawar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=My+Coding+Journey" width="48%" style="border-radius: 10px; display: inline-block; margin: 5px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshmamnawar&layout=compact&theme=tokyonight&langs_count=10&hide=html" width="48%" style="border-radius: 10px; display: inline-block; margin: 5px;" />
+</p>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eshmamnawar&theme=tokyonight" alt="GitHub Streak Stats" style="border-radius: 10px;"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eshmamnawar&theme=tokyonight" width="100%" style="border-radius: 10px;" />
+</p>
 
 ---
 
