@@ -59,5 +59,5 @@ Hi, I'm **Eshmam Nawar**, a Software Development student at **Swinburne Universi
 
 <!-- 🧠 Footer Quote -->
 <p align="center">
-  <em>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</em>
+  <em>“Code is like humour. When you have to explain it, it’s bad.” – Cory House</em>
 </p>
