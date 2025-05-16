@@ -47,20 +47,13 @@ Hi, I'm **Eshmam Nawar**, a Software Development student at **Swinburne Universi
 ## 🚀 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eshmamnawar&theme=tokyonight" width="100%" style="border-radius: 12px;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eshmamnawar&theme=tokyonight" width="49.5%" style="border-radius: 10px; margin: 5px;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eshmamnawar&theme=tokyonight" width="49.5%" style="border-radius: 10px; margin: 5px;" />
 </p>
 
-<br/>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eshmamnawar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=My+Coding+Journey" width="48%" style="border-radius: 10px; display: inline-block; margin: 5px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshmamnawar&layout=compact&theme=tokyonight&langs_count=10&hide=html" width="48%" style="border-radius: 10px; display: inline-block; margin: 5px;" />
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eshmamnawar&theme=tokyonight" width="100%" style="border-radius: 10px;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eshmamnawar&theme=tokyonight" width="49.5%" style="border-radius: 10px; margin: 5px;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eshmamnawar&theme=tokyonight&utcOffset=8" width="49.5%" style="border-radius: 10px; margin: 5px;" />
 </p>
 
 ---
