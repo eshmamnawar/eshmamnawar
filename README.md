@@ -5,7 +5,7 @@
 
 <!-- ✨ Animated Typing Introduction -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&pause=1000&color=E06C75&center=true&vCenter=true&width=700&lines=Software+Developer+%F0%9F%92%BB;AI+Engineering+Enthusiast+%F0%9F%A4%96;Lifelong+Learner+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=I'm+Eshmam+Nawar;Software+Developer+%F0%9F%92%BB;AI+Engineering+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
 </h1>
 
 <!-- 👁️ Profile Views Counter -->
