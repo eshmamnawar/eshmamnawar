@@ -8,9 +8,14 @@
 </h1>
 
 <!-- 👁️ Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eshmamnawar&label=Profile%20views&color=00BFFF&style=flat" alt="eshmamnawar" />
-</p>
+## 🌟 About Me
+
+Hi, I'm **Eshmam Nawar**, a Software Development student at **Swinburne University** passionate about building efficient, elegant digital solutions and exploring the frontiers of AI.
+
+- 🧠 Former **Fellow & Resident at SWE Headstarter AI** working on AI-driven innovations
+- 💻 Experienced in **JavaScript, React, Node.js, Python, and Next.js**
+- 🤖 Focused on practical AI, automation, and clean development architecture
+- 🌐 Advocate for open-source collaboration and continuous learning
 
 <!-- 👤 About Me -->
 Hi, I'm **Eshmam Nawar**, a Software Development student at **Swinburne University** passionate about building efficient, elegant digital solutions and exploring the frontiers of AI.
