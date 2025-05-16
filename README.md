@@ -44,12 +44,17 @@ I'm a Software Development student at **Swinburne University**, passionate about
 ---
 
 <!-- 📈 GitHub Insights -->
-## 📈 My GitHub Insights
+## 🚀 GitHub Activity Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eshmamnawar&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=My+Coding+Activity" alt="GitHub Stats" width="450" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshmamnawar&layout=compact&theme=radical&langs_count=10" alt="Top Languages" width="340" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eshmamnawar&theme=radical" alt="GitHub Profile Summary" width="100%"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eshmamnawar&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=🚀+My+Coding+Journey" alt="GitHub Stats" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshmamnawar&layout=compact&theme=radical&langs_count=10&hide=html" alt="Top Languages" width="340"/>
+</p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eshmamnawar&theme=radical" alt="GitHub Streak" />
 </p>
@@ -57,11 +62,6 @@ I'm a Software Development student at **Swinburne University**, passionate about
 ---
 
 <!-- 🎨 Signature GIF Row -->
-## ✨ Aesthetic Flow
-<p align="center">
-  <img src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" width="330" />
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="330" />
-</p>
 
 ---
 
