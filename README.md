@@ -10,7 +10,7 @@ keep everything same just add gap in between sections. and make the jupiter and 
 
 <!-- 👁️ Profile Views Counter - Neon Style -->
 <div align="center" style="color: black">
-  <img src="https://komarev.com/ghpvc/?username=eshmamnawar&label=Profile%20views&color=00FFFF&style=for-the-badge" alt="eshmamnawar" />
+  <img src="https://komarev.com/ghpvc/?username=eshmamnawar&label=Profile%20views&color=000000&style=flat" alt="eshmamnawar" style="margin-top: 10px;" />
 </div>
 
 
