@@ -16,12 +16,24 @@
 <!-- 👤 About Me -->
 ## 🌟 About Me
 
-Hey there! I'm **Eshmam Nawar**, a Software Development student at **Swinburne University** with a growing passion for innovation in both **web development** and **AI Engineering**.
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="180" height="180">
+</div>
 
-🔹 Former **Fellow & Resident at SWE Headstarter AI**, where I explored real-world applications of artificial intelligence  
-🔹 Crafting full-stack applications with **JavaScript**, **React**, **Node.js**, **Python**, and **Next.js**  
-🔹 Enthusiastic about building ethical, intelligent systems using machine learning models and automation tools  
-🔹 Dedicated to open-source, collaborative learning, and continuous growth in the tech space
+<p align="center">
+  <strong><span style="font-size:22px; color:#00FFFF">Hi, I'm Eshmam Nawar</span></strong><br>
+  <em>A passionate Software Developer & AI Engineering Enthusiast</em>
+</p>
+
+<br/>
+
+<p align="center">
+  <strong>🏅 Fellow & Resident at SWE Headstarter AI</strong> — contributed to impactful AI initiatives<br>
+  <strong>🛠️ Full-Stack Developer</strong> working with JavaScript, React, Node.js, Python, and Next.js<br>
+  <strong>🤖 AI Explorer</strong> focused on intelligent systems, ethical machine learning, and automation<br>
+  <strong>🌍 Tech Enthusiast</strong> passionate about open-source, innovation, and community-driven development
+</p>
+
 
 ---
 
@@ -44,20 +56,24 @@ Hey there! I'm **Eshmam Nawar**, a Software Development student at **Swinburne U
 ---
 
 <!-- 📈 GitHub Insights -->
-## 🚀 GitHub Activity Overview
+## 🚀 GitHub Activity
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eshmamnawar&theme=gruvbox_dark" alt="GitHub Profile Summary" width="100%"/>
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eshmamnawar&theme=tokyonight" alt="GitHub Summary Card" style="max-width: 100%; border-radius: 12px;"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eshmamnawar&show_icons=true&theme=gruvbox_dark&include_all_commits=true&count_private=true&custom_title=🚀+My+Coding+Journey" alt="GitHub Stats" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshmamnawar&layout=compact&theme=gruvbox_dark&langs_count=10&hide=html" alt="Top Languages" width="340"/>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eshmamnawar&theme=gruvbox_dark" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eshmamnawar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=My+Coding+Journey" alt="GitHub Stats" width="450" style="border-radius: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshmamnawar&layout=compact&theme=tokyonight&langs_count=10&hide=html" alt="Top Languages" width="340" style="border-radius: 10px;"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eshmamnawar&theme=tokyonight" alt="GitHub Streak Stats" style="border-radius: 10px;"/>
+</div>
 
 ---
 
